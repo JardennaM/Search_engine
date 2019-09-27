@@ -1,4 +1,4 @@
-<div style="color: red">begrijpen van elastic search</div><br>
+<div style="background-color: red">begrijpen van elastic search</div><br>
 data preprocessen (duidelijke documenten met id, topic, tijd, body) <br>
 data inladen in elasticsearch <br>
 interface bouwen (eerst simpel) <br>
