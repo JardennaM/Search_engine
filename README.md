@@ -1,4 +1,4 @@
-![#f03c15](https://placehold.it/15/f03c15/000000?text=+) begrijpen van elastic search <br>
+![#f03c15] begrijpen van elastic search <br>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) data preprocessen (duidelijke documenten met id, topic, tijd, body) <br>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) data inladen in elasticsearch <br>
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) interface bouwen (eerst simpel) <br>
