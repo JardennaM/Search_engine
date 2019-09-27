@@ -15,3 +15,5 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) systeem evalueren <br>
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) example of green color
+
+![egel](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hedgehog_germany0908.jpg/1920px-Hedgehog_germany0908.jpg) example of green color
