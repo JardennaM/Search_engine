@@ -1,15 +1,15 @@
-begrijpen van elastic search <br>
-data preprocessen (duidelijke documenten met id, topic, tijd, body)
-data inladen in elasticsearch
-interface bouwen (eerst simpel)
-interface koppelen aan elasticsearch
-ranking bedenken
-results lijst documenten met link en beschrijving
-matchende woorden dikgedrukt in results
-uitgebreid zoeken
-wordclouds ? 
-grafiek met informatie over results
-Faceted search (obv categories)
-aantal test queries opstellen
-test queries testen
-systeem evalueren
+<div style="color: red">begrijpen van elastic search</div><br>
+data preprocessen (duidelijke documenten met id, topic, tijd, body) <br>
+data inladen in elasticsearch <br>
+interface bouwen (eerst simpel) <br>
+interface koppelen aan elasticsearch <br>
+ranking bedenken <br>
+results lijst documenten met link en beschrijving <br>
+matchende woorden dikgedrukt in results <br>
+uitgebreid zoeken <br>
+wordclouds ?  <br>
+grafiek met informatie over results <br>
+Faceted search (obv categories) <br>
+aantal test queries opstellen <br>
+test queries testen <br>
+systeem evalueren <br>
