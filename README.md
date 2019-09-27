@@ -1,4 +1,4 @@
-begrijpen van elastic search
+begrijpen van elastic search <br>
 data preprocessen (duidelijke documenten met id, topic, tijd, body)
 data inladen in elasticsearch
 interface bouwen (eerst simpel)
