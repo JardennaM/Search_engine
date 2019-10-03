@@ -15,5 +15,3 @@
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) systeem evalueren <br>
 
 ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) example of green color
-
-![egel](https://ictpioniersfnwi.files.wordpress.com/2016/03/maarten-marx.jpg) Onze grote vriend
